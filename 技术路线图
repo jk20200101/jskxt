@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T02:45:18.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="v56uf89fNsSBqMC2FHTq" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T02:47:25.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PLmO97fENH77hDNskF9E" version="20.6.0" type="github">
   <diagram id="Nt5ud-PLwqfq_OQlsD31" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="yKeIQV9prfkfsoGLI7v2-5" value="建设数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yKeIQV9prfkfsoGLI7v2-16" value="碳排放计算分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yKeIQV9prfkfsoGLI7v2-17" value="碳减排建议" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
