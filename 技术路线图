@@ -1,55 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T11:46:24.425Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZipmX9mDYRehdO8jxqH_" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T08:17:07.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="E6gNE202NXszuCuOhmKp" version="20.6.0" type="github">
   <diagram id="Nt5ud-PLwqfq_OQlsD31" name="第 1 页">
-    <mxGraphModel dx="1182" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1gR19oQ6dwbGzVA12Vep-1" target="1gR19oQ6dwbGzVA12Vep-5">
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-7" target="o-2lkl2XBpSZK1pgsJ2c-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1gR19oQ6dwbGzVA12Vep-1" target="1gR19oQ6dwbGzVA12Vep-6">
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-7" value="数据收集与整理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="347" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-9" target="o-2lkl2XBpSZK1pgsJ2c-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1gR19oQ6dwbGzVA12Vep-1" target="1gR19oQ6dwbGzVA12Vep-7">
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-9" value="碳排放计算&lt;br&gt;模型选择" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="484" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-10" target="o-2lkl2XBpSZK1pgsJ2c-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-1" value="城镇污水处理厂碳排放计算与碳减排分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="123" width="120" height="50" as="geometry" />
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-10" value="碳排放分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="640" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1gR19oQ6dwbGzVA12Vep-5" target="1gR19oQ6dwbGzVA12Vep-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="373" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-11" value="碳减排建议" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="794" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-5" value="电力消耗碳排放&lt;br&gt;计算模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="223" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1gR19oQ6dwbGzVA12Vep-6" target="1gR19oQ6dwbGzVA12Vep-9">
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-12" target="o-2lkl2XBpSZK1pgsJ2c-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-6" value="污水直接碳排放&lt;br&gt;计算模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="223" width="110" height="60" as="geometry" />
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-12" value="电力碳排放&lt;br&gt;计算模型" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="489" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1gR19oQ6dwbGzVA12Vep-7" target="1gR19oQ6dwbGzVA12Vep-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-7" value="外加碳源碳排放&lt;br&gt;计算模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="223" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1gR19oQ6dwbGzVA12Vep-9" target="1gR19oQ6dwbGzVA12Vep-10">
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-15" target="o-2lkl2XBpSZK1pgsJ2c-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-9" value="碳排放总量和&lt;br&gt;碳排放强度分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="343" width="110" height="60" as="geometry" />
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-15" value="碳排放&lt;br&gt;总量分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="645" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1gR19oQ6dwbGzVA12Vep-10" value="碳减排分析与建议" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="453" width="110" height="60" as="geometry" />
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-16" target="o-2lkl2XBpSZK1pgsJ2c-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-16" value="碳排放&lt;br&gt;强度分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="645" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="106" y="225" width="255" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-3" value="污水厂&lt;br&gt;上报数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-28">
+          <mxGeometry x="155" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-25" value="" style="group" vertex="1" connectable="0" parent="o-2lkl2XBpSZK1pgsJ2c-28">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1gR19oQ6dwbGzVA12Vep-1" value="污水厂建设数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="o-2lkl2XBpSZK1pgsJ2c-25" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-2" value="污水厂运行数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-25">
+          <mxGeometry y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="o-2lkl2XBpSZK1pgsJ2c-28" source="1gR19oQ6dwbGzVA12Vep-1" target="o-2lkl2XBpSZK1pgsJ2c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="o-2lkl2XBpSZK1pgsJ2c-28" source="o-2lkl2XBpSZK1pgsJ2c-2" target="o-2lkl2XBpSZK1pgsJ2c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="484" y="225" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-4" value="国家统计局&lt;br&gt;统计数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-29">
+          <mxGeometry y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-24" value="" style="group" vertex="1" connectable="0" parent="o-2lkl2XBpSZK1pgsJ2c-29">
+          <mxGeometry x="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-5" value="人口数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-24">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-6" value="经济数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-24">
+          <mxGeometry y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-23" value="经济数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-24">
+          <mxGeometry y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="o-2lkl2XBpSZK1pgsJ2c-29" source="o-2lkl2XBpSZK1pgsJ2c-5" target="o-2lkl2XBpSZK1pgsJ2c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="o-2lkl2XBpSZK1pgsJ2c-29" source="o-2lkl2XBpSZK1pgsJ2c-23" target="o-2lkl2XBpSZK1pgsJ2c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-3" target="o-2lkl2XBpSZK1pgsJ2c-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-4" target="o-2lkl2XBpSZK1pgsJ2c-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530" y="444" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-14" value="外加碳源碳排放&lt;br&gt;计算模型" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-32">
+          <mxGeometry y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-22" value="污水碳排放&lt;br&gt;计算模型" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-32">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="689" y="582.5" width="100" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-19" value="污水水质" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-33">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-20" value="水厂规模" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-33">
+          <mxGeometry y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-21" value="污水工艺" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-33">
+          <mxGeometry y="125" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="605" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-17" value="时间变化分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-34">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-18" value="空间分布分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="o-2lkl2XBpSZK1pgsJ2c-34">
+          <mxGeometry y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-22" target="o-2lkl2XBpSZK1pgsJ2c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-14" target="o-2lkl2XBpSZK1pgsJ2c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-17" target="o-2lkl2XBpSZK1pgsJ2c-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-18" target="o-2lkl2XBpSZK1pgsJ2c-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-19" target="o-2lkl2XBpSZK1pgsJ2c-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-20" target="o-2lkl2XBpSZK1pgsJ2c-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-2lkl2XBpSZK1pgsJ2c-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-2lkl2XBpSZK1pgsJ2c-21" target="o-2lkl2XBpSZK1pgsJ2c-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
