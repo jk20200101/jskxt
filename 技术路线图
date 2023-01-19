@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T09:56:43.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="mgU4T5Wq5ZNIBJpBZbM-" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T10:34:54.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="33ABPHhVGJ29ang-frKk" version="20.6.0" type="github">
   <diagram id="Nt5ud-PLwqfq_OQlsD31" name="第 1 页">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,81 @@
         </mxCell>
         <mxCell id="o-2lkl2XBpSZK1pgsJ2c-54" value="参数&lt;br&gt;率定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="414" y="178" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-1" target="BEWqVnUuvVQtMxYmw0k7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-1" target="BEWqVnUuvVQtMxYmw0k7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-1" value="基于节能降碳的SBR工艺&lt;br&gt;低碳运行研究" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="550" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-4" target="BEWqVnUuvVQtMxYmw0k7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-4" target="BEWqVnUuvVQtMxYmw0k7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-4" value="曝气能耗碳排放&lt;br&gt;（能量输入）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-5" target="BEWqVnUuvVQtMxYmw0k7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-5" value="外加碳源碳排放&lt;br&gt;（物质输入）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-6" target="BEWqVnUuvVQtMxYmw0k7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-6" value="正常曝气工况" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167" y="790" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-7" target="BEWqVnUuvVQtMxYmw0k7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-7" target="BEWqVnUuvVQtMxYmw0k7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-7" target="BEWqVnUuvVQtMxYmw0k7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-7" value="异常曝气工况" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267" y="790" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-10" target="BEWqVnUuvVQtMxYmw0k7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-10" value="不同外加碳源碳排放实测" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="880" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-11" target="BEWqVnUuvVQtMxYmw0k7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-11" value="图像学&lt;br&gt;特征构建" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="880" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-12" target="BEWqVnUuvVQtMxYmw0k7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-12" value="碳排放强度&lt;br&gt;最低碳源" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="970" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-13" value="SBR工艺低碳运行管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1069" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-14" value="曝气盘&lt;br&gt;堵塞" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="750" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-17" value="曝气盘&lt;br&gt;破损" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEWqVnUuvVQtMxYmw0k7-20" target="BEWqVnUuvVQtMxYmw0k7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEWqVnUuvVQtMxYmw0k7-20" value="能耗最低&lt;br&gt;曝气工况" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="970" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
